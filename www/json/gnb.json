@@ -1,0 +1,175 @@
+{
+	"company": [{
+			"name": "소개",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": "/space/intro.php"
+		},
+		[{
+				"name": "창작소 소개",
+				"refer1": "",
+				"img": "",
+				"link": "/space/intro.php"
+			},
+			{
+				"name": "공간 소개",
+				"refer1": "",
+				"img": "",
+				"link": "/space/index.php"
+			},
+			{
+				"name": "찾아오시는 길",
+				"refer1": "",
+				"img": "",
+				"link": "/space/location.php"
+			}
+		]
+	],
+	"program": [{
+			"name": "프로그램",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": "/program/"
+		},
+		[{
+			"name": "프로그램",
+			"refer1": "",
+			"img": "",
+			"link": "/program/"
+		}]
+	],
+	"apply": [{
+			"name": "시민참여",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": "/apply/space/"
+		},
+		[{
+				"name": "공간 대관 신청",
+				"refer1": "",
+				"img": "",
+				"link": "/apply/space/"
+			},
+			{
+				"name": "프로그램 신청",
+				"refer1": "",
+				"img": "",
+				"link": "/apply/program/"
+			}
+		]
+	],
+
+	"news": [{
+			"name": "새소식",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": "/news/notice/"
+		},
+		[{
+				"name": "공지",
+				"refer1": "",
+				"img": "",
+				"link": "/news/notice/"
+			},
+			{
+				"name": "보도자료",
+				"refer1": "",
+				"img": "",
+				"link": "/news/press/"
+			},
+			{
+				"name": "행사일정",
+				"refer1": "",
+				"img": "",
+				"link": "/news/gallery/"
+			},
+			{
+				"name": "아카이빙",
+				"refer1": "",
+				"img": "",
+				"link": "/news/archiving/"
+			}
+		]
+	],
+	"info": [{
+			"name": "정보",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": "/info/faq/"
+		},
+		[{
+				"name": "FAQ",
+				"refer1": "",
+				"img": "",
+				"link": "/info/faq/"
+			},
+			{
+				"name": "문의",
+				"refer1": "",
+				"img": "",
+				"link": "/info/reply/"
+			}
+		]
+	],
+	"mypage": [{
+			"name": "마이페이지",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": "/mypage/apply/"
+		},
+		[
+			{
+				"name": "대관 신청현황",
+				"refer1": "",
+				"img": "",
+				"link": "/mypage/apply/"
+			},
+			{
+				"name": "프로그램 신청현황",
+				"refer1": "",
+				"img": "",
+				"link": "/mypage/program/"
+			},
+			{
+				"name": "문의내역",
+				"refer1": "",
+				"img": "",
+				"link": "/mypage/inquiry/"
+			},
+			{
+				"name": "개인정보",
+				"refer1": "",
+				"img": "",
+				"link": "/mypage/index.php"
+			}
+		]
+	],
+	"member": [{
+			"name": "회원",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": ""
+		},
+		[
+			{
+				"name": "신청현황",
+				"refer1": "",
+				"img": "",
+				"link": "/mypage/apply/"
+			},
+			{
+				"name": "프로그램 신청현황",
+				"refer1": "",
+				"img": "",
+				"link": "/mypage/program/"
+			}
+		]
+	]
+}

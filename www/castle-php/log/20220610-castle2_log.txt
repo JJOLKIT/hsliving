@@ -1,0 +1,1 @@
+192.168.0.1 - [10/Jun/2022:11:53:33 +0900] /admin/site/facebook/process.php: relation_url = &lt;iframe src="https://www.facebook.com/plugins/post.php?href=http: TAG 공격 패턴 탐지
